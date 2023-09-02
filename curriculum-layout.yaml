@@ -1,0 +1,22 @@
+# Top-level curriculum layout file for use with Docusaurus
+# Note that indentation is critical in YAML files
+
+site_homepage:
+  repo: lhtp2
+  filename: site-home.md
+
+courses_homepage:
+  repo: lhtp2
+  filename: courses.md
+
+student_handbook:
+  repo: career-services-full-stack
+  filename: student-handbook.md
+
+course_layouts:
+  - repo: intro-full-stack
+    directory: layouts
+    filename: introduction-to-programming.yaml
+  - repo: intro-full-stack
+    directory: layouts
+    filename: introduction-to-programming-part-time.yaml
