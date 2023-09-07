@@ -9,20 +9,23 @@ hide_table_of_contents: true
 
 _Diversity, Equity, and Inclusion_
 
+**Pre-work**
+- [Pre-work](/pre_work)
+
 **Full-Time Full Stack**
-- [Intro to Programming](/introduction_to_programming/introduction_to_programming)
-- _Intermediate JS_
+- [Introduction to Programming](/introduction_to_programming)
+- [Intermediate JavaScript](/intermediate_javascript)
+- [React](/react)
 - _C# and .NET_
-- _React_
 
 **Part-Time Full Stack**
-- [Intro to Programming PT](/introduction_to_programming_part_time/introduction_to_programming_part_time)
-- _Intermediate JS_
-- _C# and .NET_
-- _React_
+- [Introduction to Programming (Part-Time)](/introduction_to_programming_part_time)
+- [Intermediate JavaScript (Part-Time)](/intermediate_javascript_part_time)
+- [React (Part-Time)](/react_part_time)
+- _C# and .NET (Part-Time)_
 
 **Part-Time Intro to Programming**
-_Intro to Programming_
+- [Introduction to Programming (Part-Time)](/introduction_to_programming_part_time)
 
 _Career Services_
 

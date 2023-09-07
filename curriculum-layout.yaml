@@ -14,9 +14,24 @@ student_handbook:
   filename: student-handbook.md
 
 course_layouts:
+  - repo: pre-work-full-stack
+    directory: layouts
+    filename: prework.yaml
   - repo: intro-full-stack
     directory: layouts
     filename: introduction-to-programming.yaml
   - repo: intro-full-stack
     directory: layouts
     filename: introduction-to-programming-part-time.yaml
+  - repo: javascript-full-stack
+    directory: layouts
+    filename: intermediate-javascript.yaml
+  - repo: javascript-full-stack
+    directory: layouts
+    filename: intermediate-javascript-part-time.yaml
+  - repo: react-full-stack
+    directory: layouts
+    filename: react.yaml
+  - repo: react-full-stack
+    directory: layouts
+    filename: react-part-time.yaml
