@@ -16,7 +16,7 @@ _Diversity, Equity, and Inclusion_
 - _React_
 
 **Part-Time Full Stack**
-- [Test Intro 2](/introduction_to_programming_part_time/introduction_to_programming_part_time)
+- [Intro to Programming PT](/introduction_to_programming_part_time/introduction_to_programming_part_time)
 - _Intermediate JS_
 - _C# and .NET_
 - _React_
