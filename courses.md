@@ -10,13 +10,13 @@ hide_table_of_contents: true
 _Diversity, Equity, and Inclusion_
 
 **Full-Time Full Stack**
-- [Intro to Programming](/intro-full-stack/introduction_to_programming)
+- [Intro to Programming](/introduction_to_programming/introduction_to_programming)
 - _Intermediate JS_
 - _C# and .NET_
 - _React_
 
 **Part-Time Full Stack**
-- [Test Intro 2](/intro-full-stack/introduction_to_programming_part_time)
+- [Test Intro 2](/introduction_to_programming_part_time/introduction_to_programming_part_time)
 - _Intermediate JS_
 - _C# and .NET_
 - _React_
