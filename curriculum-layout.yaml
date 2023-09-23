@@ -14,9 +14,11 @@ student_handbook:
   filename: student-handbook.md
 
 course_layouts:
+# PREWORK
   - repo: pre-work-full-stack
     directory: layouts
     filename: prework.yaml
+# INTRO
   - repo: intro-full-stack
     directory: layouts/ft
     filename: introduction-to-programming.yaml
@@ -29,21 +31,42 @@ course_layouts:
   - repo: intro-full-stack
     directory: layouts/pt_old
     filename: old_introduction-to-programming-part-time.yaml
+# JAVACSCRIPT
   - repo: javascript-full-stack
-    directory: layouts
+    directory: layouts/ft
     filename: intermediate-javascript.yaml
   - repo: javascript-full-stack
-    directory: layouts
+    directory: layouts/ft_old
+    filename: old_intermediate-javascript.yaml
+  - repo: javascript-full-stack
+    directory: layouts/pt
     filename: intermediate-javascript-part-time.yaml
+  - repo: javascript-full-stack
+    directory: layouts/pt_old
+    filename: old_intermediate-javascript-part-time.yaml
+# REACT
   - repo: react-full-stack
-    directory: layouts
+    directory: layouts/ft
     filename: react.yaml
   - repo: react-full-stack
-    directory: layouts
+    directory: layouts/ft_old
+    filename: old_react.yaml
+  - repo: react-full-stack
+    directory: layouts/pt
     filename: react-part-time.yaml
+  - repo: react-full-stack
+    directory: layouts/pt_old
+    filename: old_react-part-time.yaml
+# C-AND-NET
   - repo: c-sharp-full-stack
     directory: layouts/ft
     filename: c-and-net.yaml
   - repo: c-sharp-full-stack
+    directory: layouts/ft_old
+    filename: old_c-and-net.yaml
+  - repo: c-sharp-full-stack
     directory: layouts/pt
     filename: c-and-net-part-time.yaml
+  - repo: c-sharp-full-stack
+    directory: layouts/pt_old
+    filename: old_c-and-net-part-time.yaml
