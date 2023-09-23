@@ -41,3 +41,9 @@ course_layouts:
   - repo: react-full-stack
     directory: layouts
     filename: react-part-time.yaml
+  - repo: c-sharp-full-stack
+    directory: layouts/ft
+    filename: c-and-net.yaml
+  - repo: c-sharp-full-stack
+    directory: layouts/pt
+    filename: c-and-net-part-time.yaml
