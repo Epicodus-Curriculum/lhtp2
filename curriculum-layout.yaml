@@ -24,49 +24,49 @@ course_layouts:
     filename: introduction-to-programming.yaml
   - repo: intro-full-stack
     directory: layouts/ft_old
-    filename: old_introduction-to-programming.yaml
+    filename: introduction-to-programming-classic.yaml
   - repo: intro-full-stack
     directory: layouts/pt
     filename: introduction-to-programming-part-time.yaml
   - repo: intro-full-stack
     directory: layouts/pt_old
-    filename: old_introduction-to-programming-part-time.yaml
+    filename: introduction-to-programming-part-time-evening.yaml
 # JAVACSCRIPT
   - repo: javascript-full-stack
     directory: layouts/ft
     filename: intermediate-javascript.yaml
   - repo: javascript-full-stack
     directory: layouts/ft_old
-    filename: old_intermediate-javascript.yaml
+    filename: intermediate-javascript-classic.yaml
   - repo: javascript-full-stack
     directory: layouts/pt
     filename: intermediate-javascript-part-time.yaml
   - repo: javascript-full-stack
     directory: layouts/pt_old
-    filename: old_intermediate-javascript-part-time.yaml
+    filename: intermediate-javascript-part-time-evening.yaml
 # REACT
   - repo: react-full-stack
     directory: layouts/ft
     filename: react.yaml
   - repo: react-full-stack
     directory: layouts/ft_old
-    filename: old_react.yaml
+    filename: react-classic.yaml
   - repo: react-full-stack
     directory: layouts/pt
     filename: react-part-time.yaml
   - repo: react-full-stack
     directory: layouts/pt_old
-    filename: old_react-part-time.yaml
+    filename: react-part-time-evening.yaml
 # C-AND-NET
   - repo: c-sharp-full-stack
     directory: layouts/ft
     filename: c-and-net.yaml
   - repo: c-sharp-full-stack
     directory: layouts/ft_old
-    filename: old_c-and-net.yaml
+    filename: c-and-net-classic.yaml
   - repo: c-sharp-full-stack
     directory: layouts/pt
     filename: c-and-net-part-time.yaml
   - repo: c-sharp-full-stack
     directory: layouts/pt_old
-    filename: old_c-and-net-part-time.yaml
+    filename: c-and-net-part-time-evening.yaml
