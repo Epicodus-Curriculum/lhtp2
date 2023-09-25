@@ -7,7 +7,11 @@ hide_table_of_contents: true
 
 # Courses
 
-_Diversity, Equity, and Inclusion_
+- [Diversity, Equity, and Inclusion](/diversity_equity_and_inclusion)
+
+- [Journaling Curriculum](/journaling_curriculum)
+
+- [Internship and Job Search](/internship_and_job_search)
 
 **Pre-work**
 - [Pre-work](/pre_work)
@@ -39,10 +43,6 @@ _Diversity, Equity, and Inclusion_
 **Part-Time Intro to Programming**
 - [Introduction to Programming (Part-Time)](/introduction_to_programming_part_time)
 
-_Career Services_
 
-_Fidgetech_
-
-_Computer Science_
-
-_Workshop_
+**Workshops**
+- [Intro to Progrmaming Workshops](/workshops)
