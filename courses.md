@@ -8,42 +8,42 @@ hide_table_of_contents: true
 # Courses
 
 **Diversity, Equity, and Inclusion**
-- [Diversity, Equity, and Inclusion](/diversity_equity_and_inclusion)
+- [Diversity, Equity, and Inclusion](/diversity-equity-and-inclusion)
 
 **Pre-work**
 - [Pre-work](/pre_work)
 
 **Full-Time Full Stack**
-- [Introduction to Programming](/introduction_to_programming)
-- [Intermediate JavaScript](/intermediate_javascript)
+- [Introduction to Programming](/introduction-to-programming)
+- [Intermediate JavaScript](/intermediate-javascript)
 - [React](/react)
-- [C# and .NET](/c_and_net)
+- [C# and .NET](/c-and-net)
 
 **Part-Time Full Stack**
-- [Introduction to Programming (Part-Time)](/introduction_to_programming_part_time)
-- [Intermediate JavaScript (Part-Time)](/intermediate_javascript_part_time)
-- [React (Part-Time)](/react_part_time)
-- [C# and .NET (Part-Time)](/c_and_net_part_time)
+- [Introduction to Programming (Part-Time)](/introduction-to-programming-part-time)
+- [Intermediate JavaScript (Part-Time)](/intermediate-javascript-part-time)
+- [React (Part-Time)](/react-part-time)
+- [C# and .NET (Part-Time)](/c-and-net-part-time)
 
 **Full-Time Full Stack (Pre-October Cohorts)**
-- [Introduction to Programming (Pre-October Cohorts)](/introduction_to_programming_classic)
-- [Intermediate JavaScript (Pre-October Cohorts)](/intermediate_javascript_classic)
-- [C# and .NET (Pre-October Cohorts)](/c_and_net_classic)
-- [React (Pre-October Cohorts)](/react_classic)
+- [Introduction to Programming (Pre-October Cohorts)](/introduction-to-programming-classic)
+- [Intermediate JavaScript (Pre-October Cohorts)](/intermediate-javascript-classic)
+- [C# and .NET (Pre-October Cohorts)](/c-and-net-classic)
+- [React (Pre-October Cohorts)](/react-classic)
 
 **Part-Time Full Stack (Evening)**
-- [Introduction to Programming (Part-Time Evening)](/introduction_to_programming_part_time_evening)
-- [Intermediate JavaScript (Part-Time Evening)](/intermediate_javascript_part_time_evening)
-- [C# and .NET (Part-Time Evening)](/c_and_net_part_time_evening)
-- [React (Part-Time Evening)](/react_part_time_evening)
+- [Introduction to Programming (Part-Time Evening)](/introduction-to-programming-part-time-evening)
+- [Intermediate JavaScript (Part-Time Evening)](/intermediate-javascript-part-time-evening)
+- [C# and .NET (Part-Time Evening)](/c-and-net-part-time-evening)
+- [React (Part-Time Evening)](/react-part-time-evening)
 
 **Part-Time Intro to Programming**
-- [Introduction to Programming (Part-Time)](/introduction_to_programming_part_time)
+- [Introduction to Programming (Part-Time)](/introduction-to-programming-part-time)
 
 
 **Workshops**
 - [Intro to Progrmaming Workshops](/workshops)
 
 **Career Services**
-- [Journaling Curriculum](/journaling_curriculum)
-- [Internship and Job Search](/internship_and_job_search)
+- [Journaling Curriculum](/journaling-curriculum)
+- [Internship and Job Search](/internship-and-job-search)
