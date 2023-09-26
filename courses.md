@@ -7,11 +7,8 @@ hide_table_of_contents: true
 
 # Courses
 
+**Diversity, Equity, and Inclusion**
 - [Diversity, Equity, and Inclusion](/diversity_equity_and_inclusion)
-
-- [Journaling Curriculum](/journaling_curriculum)
-
-- [Internship and Job Search](/internship_and_job_search)
 
 **Pre-work**
 - [Pre-work](/pre_work)
@@ -46,3 +43,7 @@ hide_table_of_contents: true
 
 **Workshops**
 - [Intro to Progrmaming Workshops](/workshops)
+
+**Career Services**
+- [Journaling Curriculum](/journaling_curriculum)
+- [Internship and Job Search](/internship_and_job_search)
