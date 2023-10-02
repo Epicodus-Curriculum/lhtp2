@@ -11,7 +11,7 @@ hide_table_of_contents: true
 - [Diversity, Equity, and Inclusion](/diversity-equity-and-inclusion)
 
 **Pre-work**
-- [Pre-work](/pre_work)
+- [Pre-work](/pre-work)
 
 **Full-Time Full Stack**
 - [Introduction to Programming](/introduction-to-programming)
