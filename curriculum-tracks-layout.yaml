@@ -19,79 +19,80 @@ tracks:
       - repo: pre-work-full-stack
         directory: layouts
         filename: pre-work.yaml
-  - name: dei
-    course_layouts:
-      - repo: DEI-full-stack
-        directory: layouts
-        filename: diversity-equity-and-inclusion.yaml
-  - name: journaling
-    course_layouts:
-      - repo: career-services-full-stack
-        directory: layouts/journaling
-        filename: journaling-curriculum.yaml
-  - name: internship-and-job-search
-    course_layouts:
-      - repo: career-services-full-stack
-        directory: layouts/jobs
-        filename: internship-and-job-search.yaml
-  - name: workshops
-    course_layouts:
-      - repo: workshops
-        directory: layouts
-        filename: workshops.yaml
-  - name: full-time
-    course_layouts:
-      - repo: intro-full-stack
-        directory: layouts/ft
-        filename: introduction-to-programming.yaml
-      - repo: javascript-full-stack
-        directory: layouts/ft
-        filename: intermediate-javascript.yaml
-      - repo: react-full-stack
-        directory: layouts/ft
-        filename: react.yaml
-      - repo: c-sharp-full-stack
-        directory: layouts/ft
-        filename: c-and-net.yaml
-  - name: part-time
-    course_layouts:
-      - repo: intro-full-stack
-        directory: layouts/pt
-        filename: introduction-to-programming-part-time.yaml
-      - repo: javascript-full-stack
-        directory: layouts/pt
-        filename: intermediate-javascript-part-time.yaml
-      - repo: react-full-stack
-        directory: layouts/pt
-        filename: react-part-time.yaml
-      - repo: c-sharp-full-stack
-        directory: layouts/pt
-        filename: c-and-net-part-time.yaml
-  - name: full-time-old
-    course_layouts:
-      - repo: intro-full-stack
-        directory: layouts/ft_old
-        filename: introduction-to-programming-classic.yaml
-      - repo: javascript-full-stack
-        directory: layouts/ft_old
-        filename: intermediate-javascript-classic.yaml
-      - repo: c-sharp-full-stack
-        directory: layouts/ft_old
-        filename: c-and-net-classic.yaml
-      - repo: react-full-stack
-        directory: layouts/ft_old
-        filename: react-classic.yaml
-  - name: part-time-evening
-    course_layouts:
-      - repo: intro-full-stack
-        directory: layouts/pt_old
-        filename: introduction-to-programming-part-time-evening.yaml
-      - repo: javascript-full-stack
-        directory: layouts/pt_old
-        filename: intermediate-javascript-part-time-evening.yaml
-      - repo: c-sharp-full-stack
-        directory: layouts/pt_old
-        filename: c-and-net-part-time-evening.yaml
-      - repo: react-full-stack
-        directory: layouts/pt_old
-        filename: react-part-time-evening.yaml
+        root: true
+  # - name: dei
+  #   course_layouts:
+  #     - repo: DEI-full-stack
+  #       directory: layouts
+  #       filename: diversity-equity-and-inclusion.yaml
+  # - name: journaling
+  #   course_layouts:
+  #     - repo: career-services-full-stack
+  #       directory: layouts/journaling
+  #       filename: journaling-curriculum.yaml
+  # - name: internship-and-job-search
+  #   course_layouts:
+  #     - repo: career-services-full-stack
+  #       directory: layouts/jobs
+  #       filename: internship-and-job-search.yaml
+  # - name: workshops
+  #   course_layouts:
+  #     - repo: workshops
+  #       directory: layouts
+  #       filename: workshops.yaml
+  # - name: full-time
+  #   course_layouts:
+  #     - repo: intro-full-stack
+  #       directory: layouts/ft
+  #       filename: introduction-to-programming.yaml
+  #     - repo: javascript-full-stack
+  #       directory: layouts/ft
+  #       filename: intermediate-javascript.yaml
+  #     - repo: react-full-stack
+  #       directory: layouts/ft
+  #       filename: react.yaml
+  #     - repo: c-sharp-full-stack
+  #       directory: layouts/ft
+  #       filename: c-and-net.yaml
+  # - name: part-time
+  #   course_layouts:
+  #     - repo: intro-full-stack
+  #       directory: layouts/pt
+  #       filename: introduction-to-programming-part-time.yaml
+  #     - repo: javascript-full-stack
+  #       directory: layouts/pt
+  #       filename: intermediate-javascript-part-time.yaml
+  #     - repo: react-full-stack
+  #       directory: layouts/pt
+  #       filename: react-part-time.yaml
+  #     - repo: c-sharp-full-stack
+  #       directory: layouts/pt
+  #       filename: c-and-net-part-time.yaml
+  # - name: full-time-old
+  #   course_layouts:
+  #     - repo: intro-full-stack
+  #       directory: layouts/ft_old
+  #       filename: introduction-to-programming-classic.yaml
+  #     - repo: javascript-full-stack
+  #       directory: layouts/ft_old
+  #       filename: intermediate-javascript-classic.yaml
+  #     - repo: c-sharp-full-stack
+  #       directory: layouts/ft_old
+  #       filename: c-and-net-classic.yaml
+  #     - repo: react-full-stack
+  #       directory: layouts/ft_old
+  #       filename: react-classic.yaml
+  # - name: part-time-evening
+  #   course_layouts:
+  #     - repo: intro-full-stack
+  #       directory: layouts/pt_old
+  #       filename: introduction-to-programming-part-time-evening.yaml
+  #     - repo: javascript-full-stack
+  #       directory: layouts/pt_old
+  #       filename: intermediate-javascript-part-time-evening.yaml
+  #     - repo: c-sharp-full-stack
+  #       directory: layouts/pt_old
+  #       filename: c-and-net-part-time-evening.yaml
+  #     - repo: react-full-stack
+  #       directory: layouts/pt_old
+  #       filename: react-part-time-evening.yaml
