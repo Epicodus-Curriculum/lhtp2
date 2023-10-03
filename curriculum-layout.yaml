@@ -14,10 +14,10 @@ student_handbook:
   filename: student-handbook.md
 
 course_layouts:
-# PREWORK
+# PRE-WORK
   - repo: pre-work-full-stack
     directory: layouts
-    filename: prework.yaml
+    filename: pre-work.yaml
 # INTRO
   - repo: intro-full-stack
     directory: layouts/ft
