@@ -7,7 +7,7 @@ hide_table_of_contents: true
 
 Hi! Welcome to _LearnHowToProgram.com_. This site is a step-by-step guide to take you from zero experience to web programmer in a few short months. Learn How to Program contains both lessons and practice exercises. This content is the curriculum for [Epicodus](http://www.epicodus.com), a school for people who want to change careers and learn how to code. You are also welcome to go through the site on your own.
 
-All of the curriculum is accessible under the Courses tab. To get started, go to the [pre-work](/pre-work).
+All of the curriculum is accessible under the Courses tab. To get started, go to the [pre-work](https://pre-work.learnhowtoprogram.com/).
 
 ## [Our Philosophy](#our-philosophy)
 
@@ -41,6 +41,6 @@ No matter what languages and framework you learn, our best advice is not to thin
 
 Wonderful! We're glad to have you with us. Every student beginning class at Epicodus has **pre-work** to do. This pre-work can take some time and we suggest budgeting about half a day to work through it all. There is software installation and set up to complete, as well as lessons to read through that will orient you to the flow of daily and weekly classwork, important policies, what to expect, and more! Please make sure to work through all of this pre-work before the start of class:
 
-The pre-work includes sections on _Getting Started at Epicodus_, _Getting Started with Working Remotely_, and _Getting Started with Intro to Programming_. You can access the pre-work [here](/pre-work).
+The pre-work includes sections on _Getting Started at Epicodus_, _Getting Started with Working Remotely_, and _Getting Started with Intro to Programming_. You can access the pre-work [here](https://pre-work.learnhowtoprogram.com/).
 
 Okay, let's get going!
