@@ -7,7 +7,7 @@ site_homepage:
 
 courses_homepage:
   repo: lhtp2
-  filename: courses.md
+  filename: courses-tracks.md
 
 student_handbook:
   repo: career-services-full-stack
@@ -20,40 +20,44 @@ tracks:
         directory: layouts
         filename: pre-work.yaml
         root: true
-  # - name: dei
-  #   course_layouts:
-  #     - repo: DEI-full-stack
-  #       directory: layouts
-  #       filename: diversity-equity-and-inclusion.yaml
-  # - name: journaling
-  #   course_layouts:
-  #     - repo: career-services-full-stack
-  #       directory: layouts/journaling
-  #       filename: journaling-curriculum.yaml
-  # - name: internship-and-job-search
-  #   course_layouts:
-  #     - repo: career-services-full-stack
-  #       directory: layouts/jobs
-  #       filename: internship-and-job-search.yaml
-  # - name: workshops
-  #   course_layouts:
-  #     - repo: workshops
-  #       directory: layouts
-  #       filename: workshops.yaml
-  # - name: full-time
-  #   course_layouts:
-  #     - repo: intro-full-stack
-  #       directory: layouts/ft
-  #       filename: introduction-to-programming.yaml
-  #     - repo: javascript-full-stack
-  #       directory: layouts/ft
-  #       filename: intermediate-javascript.yaml
-  #     - repo: react-full-stack
-  #       directory: layouts/ft
-  #       filename: react.yaml
-  #     - repo: c-sharp-full-stack
-  #       directory: layouts/ft
-  #       filename: c-and-net.yaml
+  - name: dei
+    course_layouts:
+      - repo: DEI-full-stack
+        directory: layouts
+        filename: diversity-equity-and-inclusion.yaml
+        root: true
+  - name: journaling
+    course_layouts:
+      - repo: career-services-full-stack
+        directory: layouts/journaling
+        filename: journaling-curriculum.yaml
+        root: true
+  - name: internship-and-job-search
+    course_layouts:
+      - repo: career-services-full-stack
+        directory: layouts/jobs
+        filename: internship-and-job-search.yaml
+        root: true
+  - name: workshops
+    course_layouts:
+      - repo: workshops
+        directory: layouts
+        filename: workshops.yaml
+        root: true
+  - name: full-time
+    course_layouts:
+      - repo: intro-full-stack
+        directory: layouts/ft
+        filename: introduction-to-programming.yaml
+      - repo: javascript-full-stack
+        directory: layouts/ft
+        filename: intermediate-javascript.yaml
+      - repo: react-full-stack
+        directory: layouts/ft
+        filename: react.yaml
+      - repo: c-sharp-full-stack
+        directory: layouts/ft
+        filename: c-and-net.yaml
   # - name: part-time
   #   course_layouts:
   #     - repo: intro-full-stack
