@@ -68,7 +68,7 @@ tracks:
       - repo: c-sharp-full-stack
         directory: layouts/pt
         filename: c-and-net.yaml
-  - name: full-time-old
+  - name: full-time-pre-october
     course_layouts:
       - repo: intro-full-stack
         directory: layouts/ft_old
