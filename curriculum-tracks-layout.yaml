@@ -14,18 +14,26 @@ student_handbook:
   filename: student-handbook.md
 
 tracks:
-  - name: pre-work
+  - name: career-services
     course_layouts:
-      - repo: pre-work-full-stack
-        directory: layouts
-        filename: pre-work.yaml
-        root: true
-  - name: dei
-    course_layouts:
-      - repo: DEI-full-stack
-        directory: layouts
-        filename: diversity-equity-and-inclusion.yaml
-        root: true
+      - repo: career-services-full-stack
+        directory: layouts/journaling
+        filename: journaling-curriculum.yaml
+      - repo: career-services-full-stack
+        directory: layouts/jobs
+        filename: internship-and-job-search.yaml
+  # - name: pre-work
+  #   course_layouts:
+  #     - repo: pre-work-full-stack
+  #       directory: layouts
+  #       filename: pre-work.yaml
+  #       root: true
+  # - name: dei
+  #   course_layouts:
+  #     - repo: DEI-full-stack
+  #       directory: layouts
+  #       filename: diversity-equity-and-inclusion.yaml
+  #       root: true
   # - name: workshops
   #   course_layouts:
   #     - repo: workshops
