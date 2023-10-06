@@ -7,42 +7,99 @@ hide_table_of_contents: true
 
 # Courses
 
-**Diversity, Equity, and Inclusion**
-- <a href="https://dei.learnhowtoprogram.com/" target="_self">Diversity, Equity, and Inclusion</a>
+<div className="centering-div" style={{margin: 'auto'  }}>
 
-**Pre-work**
-- <a href="https://pre-work.learnhowtoprogram.com/" target="_self">Pre-work</a>
+ <div style={{borderStyle: 'solid' , borderWidth: '2px' , borderColor: 'var(--ifm-color-emphasis-300)' , borderRadius: '20px', marginBottom: '20px' }}> 
+    <div className='course-row' style={{margin: '10px'}}>
+      <h4>Pre-work</h4>
+      <ul>
+        <li><a href="https://pre-work.learnhowtoprogram.com/">Pre-Work</a></li>
+      </ul>
+    </div>
+  </div>
 
-**Full-Time Full Stack**
-- <a href="https://full-time.learnhowtoprogram.com/introduction-to-programming" target="_self">Introduction to Programming</a>
-- <a href="https://full-time.learnhowtoprogram.com/intermediate-javascript" target="_self">Intermediate JavaScript</a>
-- <a href="https://full-time.learnhowtoprogram.com/react" target="_self">React</a>
-- <a href="https://full-time.learnhowtoprogram.com/c-and-net" target="_self">C# and .NET</a>
+ <div style={{borderStyle: 'solid' , borderWidth: '2px' , borderColor: 'var(--ifm-color-emphasis-300)' , borderRadius: '20px', marginBottom: '20px' }}>
+    <div className='course-row' style={{columnRule: '1px double var(--ifm-color-emphasis-300)',columns: '200px 3' , margin: '10px'}}>
+      <div  className='course-column' style={{breakInside: 'avoid'}}> 
+        <h4 >Full-Time Full Stack</h4>
+        <ul>
+          <li ><a href="https://full-time.learnhowtoprogram.com/introduction-to-programming">Introduction to
+              Programming</a></li>
+          <li><a href="https://full-time.learnhowtoprogram.com/intermediate-javascript">Intermediate JavaScript</a></li>
+          <li><a href="https://full-time.learnhowtoprogram.com/react">React</a></li>
+          <li><a href="https://full-time.learnhowtoprogram.com/c-and-net">C# and .NET</a></li>
+        </ul>
+      </div>
+      <div className='course-column' style={{breakInside: 'avoid'}}>
+        <h4>Part-Time Full Stack</h4>
+        <ul>
+          <li><a href="https://part-time.learnhowtoprogram.com/introduction-to-programming">Introduction to Programming
+              (Part-Time)</a></li>
+          <li><a href="https://part-time.learnhowtoprogram.com/intermediate-javascript">Intermediate JavaScript
+              (Part-Time)</a></li>
+          <li><a href="https://part-time.learnhowtoprogram.com/react">React (Part-Time)</a></li>
+          <li><a href="https://part-time.learnhowtoprogram.com/c-and-net">C# and .NET (Part-Time)</a></li>
+        </ul>
+      </div>
+       <div className='course-column' style={{breakInside: 'avoid'}}>
+      <h4>Part-Time Intro To Programming</h4>
+      <ul>
+        <li><a href="https://part-time.learnhowtoprogram.com/introduction-to-programming">Introduction to Programming
+            (Part-Time)</a></li>
+      </ul>
+    </div>
+    </div>
+  </div>
 
-**Part-Time Full Stack**
-- <a href="https://part-time.learnhowtoprogram.com/introduction-to-programming" target="_self">Introduction to Programming (Part-Time)</a>
-- <a href="https://part-time.learnhowtoprogram.com/intermediate-javascript" target="_self">Intermediate JavaScript (Part-Time)</a>
-- <a href="https://part-time.learnhowtoprogram.com/react" target="_self">React (Part-Time)</a>
-- <a href="https://part-time.learnhowtoprogram.com/c-and-net" target="_self">C# and .NET (Part-Time)</a>
+  <div style={{borderStyle: 'solid' , borderWidth: '2px' , borderColor: 'var(--ifm-color-emphasis-300)' , borderRadius: '20px', marginBottom: '20px' }}>
+    <div className='course-row' style={{columnRule: '1px double var(--ifm-color-emphasis-300)',columns: '200px 2' , margin: '10px' }}>
+      <div className='course-column' style={{breakInside: 'avoid'}}> 
+        <h4>Full-Time Full Stack (Pre-October Cohorts)</h4>
+        <ul>
+          <li><a href="https://full-time-pre-october.learnhowtoprogram.com/introduction-to-programming">Introduction to
+              Programming</a></li>
+          <li><a href="https://full-time-pre-october.learnhowtoprogram.com/intermediate-javascript">Intermediate
+              JavaScript</a></li>
+          <li><a href="https://full-time-pre-october.learnhowtoprogram.com/c-and-net">C# and .NET</a></li>
+          <li><a href="https://full-time-pre-october.learnhowtoprogram.com/react">React</a></li>
+        </ul>
+      </div>
+      <div className='course-column' style={{breakInside: 'avoid'}}>
+        <h4>Part-Time Full Stack (Evening)</h4>
+        <ul>
+          <li><a href="https://part-time-evening.learnhowtoprogram.com/introduction-to-programming">Introduction to
+              Programming (Part-Time)</a></li>
+          <li><a href="https://part-time-evening.learnhowtoprogram.com/intermediate-javascript">Intermediate JavaScript
+              (Part-Time)</a></li>
+          <li><a href="https://part-time-evening.learnhowtoprogram.com/c-and-net">C# and .NET (Part-Time)</a></li>
+          <li><a href="https://part-time-evening.learnhowtoprogram.com/react">React (Part-Time)</a></li>
+        </ul>
+    </div>
+    </div>
+  </div>
 
-**Full-Time Full Stack (Pre-October Cohorts)**
-- <a href="https://full-time-pre-october.learnhowtoprogram.com/introduction-to-programming" target="_self">Introduction to Programming (Pre-October Cohorts)</a>
-- <a href="https://full-time-pre-october.learnhowtoprogram.com/intermediate-javascript" target="_self">Intermediate JavaScript (Pre-October Cohorts)</a>
-- <a href="https://full-time-pre-october.learnhowtoprogram.com/c-and-net" target="_self">C# and .NET (Pre-October Cohorts)</a>
-- <a href="https://full-time-pre-october.learnhowtoprogram.com/react" target="_self">React (Pre-October Cohorts)</a>
-
-**Part-Time Full Stack (Evening)**
-- <a href="https://part-time-evening.learnhowtoprogram.com/introduction-to-programming" target="_self">Introduction to Programming (Part-Time Evening)</a>
-- <a href="https://part-time-evening.learnhowtoprogram.com/intermediate-javascript" target="_self">Intermediate JavaScript (Part-Time Evening)</a>
-- <a href="https://part-time-evening.learnhowtoprogram.com/c-and-net" target="_self">C# and .NET (Part-Time Evening)</a>
-- <a href="https://part-time-evening.learnhowtoprogram.com/react" target="_self">React (Part-Time Evening)</a>
-
-**Part-Time Intro to Programming**
-- <a href="https://part-time.learnhowtoprogram.com/introduction-to-programming" target="_self">Introduction to Programming (Part-Time)</a>
-
-**Workshops**
-- <a href="https://workshops.learnhowtoprogram.com/" target="_self">Intro to Programming Workshops</a>
-
-**Career Services**
-- <a href="https://career-services.learnhowtoprogram.com/journaling-curriculum" target="_self">Journaling Curriculum</a>
-- <a href="https://career-services.learnhowtoprogram.com/internship-and-job-search" target="_self">Internship and Job Search</a>
+  <div style={{borderStyle: 'solid' , borderWidth: '2px' , borderColor: 'var(--ifm-color-emphasis-300)' , borderRadius: '20px' }}>
+     <div className='course-row' style={{columnRule: '1px double var(--ifm-color-emphasis-300)',columns: '200px 3' , margin: '10px'}}>
+     <div className='course-column' style={{breakInside: 'avoid'}}> 
+      <h4>Career Services</h4>
+      <ul>
+        <li><a href="https://career-services.learnhowtoprogram.com/journaling-curriculum">Journaling Curriculum</a></li>
+        <li><a href="https://career-services.learnhowtoprogram.com/internship-and-job-search">Internship and Job
+            Search</a></li>
+      </ul>
+    </div>
+      <div className='course-column' style={{breakInside: 'avoid'}}> 
+        <h4>Diversity, Equity, and Inclusion</h4>
+        <ul>
+          <li><a href="https://dei.learnhowtoprogram.com/">Diversity, Equity, and Inclusion Curriculum</a></li>
+        </ul>
+      </div>
+      <div className='course-column' style={{breakInside: 'avoid'}}> 
+        <h4>Workshops</h4>
+        <ul>
+          <li><a href="https://workshops.learnhowtoprogram.com/">Introduction to Programming Workshops</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
