@@ -92,55 +92,55 @@ tracks:
       - repo: c-sharp-full-stack
         directory: layouts/pt
         filename: c-and-net.yaml
-  # - name: full-time-pre-october
-  #   course_layouts:
-  #     - repo: pre-work-full-stack
-  #       directory: layouts
-  #       filename: pre-work.yaml
-  #     - repo: DEI-full-stack
-  #       directory: layouts
-  #       filename: diversity-equity-and-inclusion.yaml
-  #     - repo: career-services-full-stack
-  #       directory: layouts/journaling
-  #       filename: journaling-curriculum.yaml
-  #     - repo: career-services-full-stack
-  #       directory: layouts/jobs
-  #       filename: internship-and-job-search.yaml
-  #     - repo: intro-full-stack
-  #       directory: layouts/ft_old
-  #       filename: introduction-to-programming.yaml
-  #     - repo: javascript-full-stack
-  #       directory: layouts/ft_old
-  #       filename: intermediate-javascript.yaml
-  #     - repo: c-sharp-full-stack
-  #       directory: layouts/ft_old
-  #       filename: c-and-net.yaml
-  #     - repo: react-full-stack
-  #       directory: layouts/ft_old
-  #       filename: react.yaml
-  # - name: part-time-evening
-  #   course_layouts:
-  #     - repo: pre-work-full-stack
-  #       directory: layouts
-  #       filename: pre-work.yaml
-  #     - repo: DEI-full-stack
-  #       directory: layouts
-  #       filename: diversity-equity-and-inclusion.yaml
-  #     - repo: career-services-full-stack
-  #       directory: layouts/journaling
-  #       filename: journaling-curriculum.yaml
-  #     - repo: career-services-full-stack
-  #       directory: layouts/jobs
-  #       filename: internship-and-job-search.yaml
-  #     - repo: intro-full-stack
-  #       directory: layouts/pt_old
-  #       filename: introduction-to-programming.yaml
-  #     - repo: javascript-full-stack
-  #       directory: layouts/pt_old
-  #       filename: intermediate-javascript.yaml
-  #     - repo: c-sharp-full-stack
-  #       directory: layouts/pt_old
-  #       filename: c-and-net.yaml
-  #     - repo: react-full-stack
-  #       directory: layouts/pt_old
-  #       filename: react.yaml
+  - name: full-time-pre-october
+    course_layouts:
+      - repo: pre-work-full-stack
+        directory: layouts
+        filename: pre-work.yaml
+      - repo: DEI-full-stack
+        directory: layouts
+        filename: diversity-equity-and-inclusion.yaml
+      - repo: career-services-full-stack
+        directory: layouts/journaling
+        filename: journaling-curriculum.yaml
+      - repo: career-services-full-stack
+        directory: layouts/jobs
+        filename: internship-and-job-search.yaml
+      - repo: intro-full-stack
+        directory: layouts/ft_old
+        filename: introduction-to-programming.yaml
+      - repo: javascript-full-stack
+        directory: layouts/ft_old
+        filename: intermediate-javascript.yaml
+      - repo: c-sharp-full-stack
+        directory: layouts/ft_old
+        filename: c-and-net.yaml
+      - repo: react-full-stack
+        directory: layouts/ft_old
+        filename: react.yaml
+  - name: part-time-evening
+    course_layouts:
+      - repo: pre-work-full-stack
+        directory: layouts
+        filename: pre-work.yaml
+      - repo: DEI-full-stack
+        directory: layouts
+        filename: diversity-equity-and-inclusion.yaml
+      - repo: career-services-full-stack
+        directory: layouts/journaling
+        filename: journaling-curriculum.yaml
+      - repo: career-services-full-stack
+        directory: layouts/jobs
+        filename: internship-and-job-search.yaml
+      - repo: intro-full-stack
+        directory: layouts/pt_old
+        filename: introduction-to-programming.yaml
+      - repo: javascript-full-stack
+        directory: layouts/pt_old
+        filename: intermediate-javascript.yaml
+      - repo: c-sharp-full-stack
+        directory: layouts/pt_old
+        filename: c-and-net.yaml
+      - repo: react-full-stack
+        directory: layouts/pt_old
+        filename: react.yaml
