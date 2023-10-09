@@ -12,8 +12,8 @@ hide_table_of_contents: true
   <div style={{borderStyle: 'solid' , borderWidth: '2px' , borderColor: 'var(--ifm-color-emphasis-300)' , borderRadius: '20px', marginBottom: '20px' }}>
     <div className='course-row' style={{margin: '10px', padding: '5px'}}>
       <h4>
-        <p>We have just moved to this new curriculum site. Please let us know if you encounter any issues!</p>
-        <p>Links to Fidgetech and Computer Science curricula are at the bottom of this page.</p>
+        <p>We have just changed the platform hosting our curriculum. Please let us know if you encounter any issues!</p>
+        <p>Links to Fidgetech and Computer Science courses are at the bottom of this page.</p>
       </h4>
     </div>
   </div>
