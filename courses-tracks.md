@@ -10,6 +10,15 @@ hide_table_of_contents: true
 <div className="centering-div" style={{margin: 'auto'  }}>
 
   <div style={{borderStyle: 'solid' , borderWidth: '2px' , borderColor: 'var(--ifm-color-emphasis-300)' , borderRadius: '20px', marginBottom: '20px' }}>
+    <div className='course-row' style={{margin: '10px'}}>
+      <h4>
+        <p>We have just moved to this new curriculum site. Please let us know if you encounter any issues!</p>
+        <p>Links to Fidgetech and Computer Science curricula are at the bottom of this page.</p>
+      </h4>
+    </div>
+  </div>
+
+  <div style={{borderStyle: 'solid' , borderWidth: '2px' , borderColor: 'var(--ifm-color-emphasis-300)' , borderRadius: '20px', marginBottom: '20px' }}>
     <div className='course-row' style={{columnRule: '1px double var(--ifm-color-emphasis-300)',columns: '200px 3' , margin: '10px'}}>
       <div  className='course-column' style={{breakInside: 'avoid'}}> 
         <h4 >Full-Time Full Stack</h4>
@@ -88,8 +97,10 @@ hide_table_of_contents: true
 
   <div style={{borderStyle: 'solid' , borderWidth: '2px' , borderColor: 'var(--ifm-color-emphasis-300)' , borderRadius: '20px', marginBottom: '20px' }}>
     <div className='course-row' style={{margin: '10px'}}>
-      <h4>Workshops</h4>
+      <h4>Other</h4>
       <ul>
+        <li><a target="_self" href="https://old.learnhowtoprogram.com/tracks/fidgetech">Fidgetech</a></li>
+        <li><a target="_self" href="https://old.learnhowtoprogram.com/computer-science">Computer Science</a></li>
         <li><a target="_self" href="https://workshops.learnhowtoprogram.com/">Introduction to Programming Workshops</a></li>
       </ul>
     </div>
