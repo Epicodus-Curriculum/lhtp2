@@ -5,9 +5,17 @@ site_homepage:
   repo: lhtp2
   filename: site-home.md
 
+tracks_homepage:
+  repo: lhtp2
+  filename: tracks.md
+
 courses_homepage:
   repo: lhtp2
-  filename: courses-tracks.md
+  filename: courses.md
+
+courses_old_homepage:
+  repo: lhtp2
+  filename: courses_old.md
 
 student_handbook:
   repo: career-services-full-stack
@@ -34,12 +42,12 @@ tracks:
   #       directory: layouts
   #       filename: diversity-equity-and-inclusion.yaml
   #       root: true
-  # - name: workshops
-  #   course_layouts:
-  #     - repo: workshops
-  #       directory: layouts
-  #       filename: workshops.yaml
-  #       root: true
+  - name: workshops
+    course_layouts:
+      - repo: workshops
+        directory: layouts
+        filename: workshops.yaml
+        root: true
   - name: full-time
     course_layouts:
       - repo: pre-work-full-stack
