@@ -23,7 +23,7 @@ That understanding fundamentally shapes how we structure Epicodus. **We believe 
 
 ---
 
-Now let's explore how this site works. When you first navigate to LearnHowToProgram.com, you are taken to the "Introduction to Programming" course at Epicodus. We have multiple courses here and we bundle them into a track. This track includes an Introduction to Programming course, an Intermediate JavaScript course, a React course, and a course on C# and .NET. The curriculum for all of our tracks is listed on [learnhowtoprogram.com/courses](/courses), and more information about taking coursework at Epicodus can be found on [epicodus.com/what-to-expect](https://www.epicodus.com/what-to-expect). 
+Now let's explore how this site works. When you first navigate to LearnHowToProgram.com, you are taken to the "Introduction to Programming" course at Epicodus. We have multiple courses here and we bundle them into a track. This track includes an Introduction to Programming course, an Intermediate JavaScript course, a React course, and a course on C# and .NET. The curriculum for all of our tracks is listed on [learnhowtoprogram.com/tracks](/tracks), and more information about taking coursework at Epicodus can be found on [epicodus.com/what-to-expect](https://www.epicodus.com/what-to-expect). 
 
 Our "Introduction To Programming" course is designed to take you from zero experience to being able to create the content of basic web pages, style those pages so that they look nice, and add basic interactivity. This course also covers how to use the common tools of the programming trade including the command line and source control.
 
