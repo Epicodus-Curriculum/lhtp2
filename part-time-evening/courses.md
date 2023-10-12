@@ -5,10 +5,10 @@ slug: /
 hide_table_of_contents: true
 ---
 
-# Courses
+# Part-Time Pre-October Courses
 
 <div className="centering-div" style={{margin: 'auto'  }}>
-  <h2 style={{textAlign: 'center'}}>Courses</h2>
+  <h2 style={{textAlign: 'center'}}>Courses &mdash; Part-Time Pre-October</h2>
 
   <div style={{borderStyle: 'solid', borderWidth: '2px', borderColor: 'var(--ifm-color-emphasis-300)', borderRadius: '20px', marginBottom: '20px' }}>
     <div className='course-row' style={{margin: '10px'}}>

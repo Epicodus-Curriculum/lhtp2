@@ -34,7 +34,7 @@ hide_table_of_contents: true
     <div className='course-row' style={{margin: '10px'}}>
     <p style={{textAlign: 'center'}}> Our part-time tracks take place over the course of 56 weeks, with a weekly part-time 20-hour commitment.</p>
     <a className="track-button" target="_self" href="https://part-time.learnhowtoprogram.com/">Part-Time Full Stack (Day Time)</a>
-    <a className="track-button" target="_self" href="https://part-time-evening.learnhowtoprogram.com/">Part-Time Full Stack (Evening)</a>
+    <a className="track-button" target="_self" href="https://part-time-evening.learnhowtoprogram.com/">Part-Time Full Stack (Pre-October Cohorts)</a>
     <a className="track-button" target="_self" href="https://part-time.learnhowtoprogram.com/">Part-Time Intro to Programming</a>
     </div>
   </div>
