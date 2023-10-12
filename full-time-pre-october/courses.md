@@ -8,6 +8,7 @@ hide_table_of_contents: true
 # Full-Time Pre-October Courses
 
 <div className="centering-div" style={{margin: 'auto'  }}>
+  <br />
   <h2 style={{textAlign: 'center'}}>Courses &mdash; Full-Time Pre-October</h2>
 
   <div style={{borderStyle: 'solid', borderWidth: '2px', borderColor: 'var(--ifm-color-emphasis-300)', borderRadius: '20px', marginBottom: '20px' }}>
@@ -20,6 +21,7 @@ hide_table_of_contents: true
     </div>
   </div>
 
+  <br />
   <h2 style={{textAlign: 'center'}}>Compiled Curriculum</h2>
 
   <div style={{borderStyle: 'solid', borderWidth: '2px', borderColor: 'var(--ifm-color-emphasis-300)', borderRadius: '20px', marginBottom: '20px' }}>
@@ -29,4 +31,7 @@ hide_table_of_contents: true
     <a className="track-button" target="_self" href="/diversity-equity-and-inclusion">Diversity, Equity, and Inclusion Curriculum</a>
     </div>
   </div>
+
+  <br />
+  <p style={{textAlign: 'center'}}>For courses in other tracks, <a href="/tracks" target="_self">click here</a>.</p>
 </div>
