@@ -1,0 +1,8 @@
+track: Part-Time C#/React
+course_layout_files:
+- https://github.com/epicodus-curriculum/intro-full-stack/blob/main/layouts/course_pt_afternoon_layout.yaml
+- https://github.com/epicodus-curriculum/javascript-full-stack/blob/main/layouts/course_pt_afternoon_layout.yaml
+- https://github.com/epicodus-curriculum/react-full-stack/blob/main/layouts/course_pt_afternoon_layout.yaml
+- https://github.com/epicodus-curriculum/c-sharp-full-stack/blob/main/layouts/course_pt_afternoon_layout.yaml
+- https://github.com/epicodus-curriculum/capstone/blob/main/layouts/course_pt_afternoon_layout.yaml
+- https://github.com/epicodus-curriculum/career-services-full-stack/blob/main/layouts/course_layout.yaml
