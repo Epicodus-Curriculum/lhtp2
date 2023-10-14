@@ -26,7 +26,7 @@ hide_table_of_contents: true
 
   <div style={{borderStyle: 'solid', borderWidth: '2px', borderColor: 'var(--ifm-color-emphasis-300)', borderRadius: '20px', marginBottom: '20px' }}>
     <div className='course-row' style={{margin: '10px'}}>
-    <a className="track-button" target="_self" href="/internship-and-job-search">Career Services Curriculum</a>
+    <a className="track-button" target="_self" href="/career-services">Career Services Curriculum</a>
     <a className="track-button" target="_self" href="/journaling-curriculum">Journaling Curriculum</a>
     <a className="track-button" target="_self" href="/diversity-equity-and-inclusion">Diversity, Equity, and Inclusion Curriculum</a>
     </div>

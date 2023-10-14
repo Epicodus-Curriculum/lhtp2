@@ -44,7 +44,7 @@ hide_table_of_contents: true
   <div style={{borderStyle: 'solid', borderWidth: '2px', borderColor: 'var(--ifm-color-emphasis-300)', borderRadius: '20px', marginBottom: '20px' }}>
     <div className='course-row' style={{margin: '10px'}}>
     <p style={{textAlign: 'center'}}>Our other curriculum, such as compiled lists of all our DEI and Career Service lessons, our weekend workshop lessons, and the Fidgetech curriculum.</p>
-    <a className="track-button" target="_self" href="https://full-time.learnhowtoprogram.com/internship-and-job-search">Career Services Curriculum</a>
+    <a className="track-button" target="_self" href="https://full-time.learnhowtoprogram.com/career-services">Career Services Curriculum</a>
     <a className="track-button" target="_self" href="https://full-time.learnhowtoprogram.com/diversity-equity-and-inclusion">Diveristy, Equity, and Inclusion Curriculum</a>
     <a className="track-button" target="_self" href="https://old.learnhowtoprogram.com/tracks/fidgetech">Fidgetech</a>
     <a className="track-button" target="_self" href="https://workshops.learnhowtoprogram.com">Weekend Workshops</a> 
