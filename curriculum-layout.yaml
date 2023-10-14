@@ -21,7 +21,7 @@ tracks:
         filename: journaling-curriculum.yaml
       - repo: career-services-full-stack
         directory: layouts/jobs
-        filename: internship-and-job-search.yaml
+        filename: career-services.yaml
       - repo: intro-full-stack
         directory: layouts/ft
         filename: introduction-to-programming.yaml
@@ -47,7 +47,7 @@ tracks:
         filename: journaling-curriculum.yaml
       - repo: career-services-full-stack
         directory: layouts/jobs
-        filename: internship-and-job-search.yaml
+        filename: career-services.yaml
       - repo: intro-full-stack
         directory: layouts/pt
         filename: introduction-to-programming.yaml
@@ -73,7 +73,7 @@ tracks:
         filename: journaling-curriculum.yaml
       - repo: career-services-full-stack
         directory: layouts/jobs
-        filename: internship-and-job-search.yaml
+        filename: career-services.yaml
       - repo: intro-full-stack
         directory: layouts/ft_old
         filename: introduction-to-programming.yaml
@@ -99,7 +99,7 @@ tracks:
         filename: journaling-curriculum.yaml
       - repo: career-services-full-stack
         directory: layouts/jobs
-        filename: internship-and-job-search.yaml
+        filename: career-services.yaml
       - repo: intro-full-stack
         directory: layouts/pt_old
         filename: introduction-to-programming.yaml
