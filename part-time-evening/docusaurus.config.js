@@ -46,6 +46,14 @@ const config = {
       defer: true,
     },
   ],
+  plugins: [
+    [
+      require.resolve("@cmfcmf/docusaurus-search-local"),
+      {
+        indexBlog: false
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
@@ -115,11 +123,11 @@ const config = {
         darkTheme: darkCodeTheme,
         additionalLanguages: ['csharp', 'ruby'],
       },
-      algolia: {
-        appId: 'YA74J3518R',
-        apiKey: '38674fb1fbdfbc0d1d6610e0107c4c6a',
-        indexName: 'new-learnhowtoprogram-part-time-evening',
-      },
+      // algolia: {
+      //   appId: 'YA74J3518R',
+      //   apiKey: '38674fb1fbdfbc0d1d6610e0107c4c6a',
+      //   indexName: 'new-learnhowtoprogram-part-time-evening',
+      // },
     }),
 };
 
