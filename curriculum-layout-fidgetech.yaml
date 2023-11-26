@@ -19,12 +19,12 @@ tracks:
       - repo: fidgetech-1-introduction-to-programming
         directory: layouts
         filename: fidgetech-1-introduction-to-programming.yaml
-      # - repo: fidgetech-2-intermediate-javascript
-      #   directory: layouts
-      #   filename: fidgetech-2-intermediate-javascript.yaml
-      # - repo: fidgetech-3-c-and-net
-      #   directory: layouts
-      #   filename: fidgetech-3-c-and-net.yaml
-      # - repo: fidgetech-4-react
-      #   directory: layouts
-      #   filename: fidgetech-4-react.yaml
+      - repo: fidgetech-2-intermediate-javascript
+        directory: layouts
+        filename: fidgetech-2-intermediate-javascript.yaml
+      - repo: fidgetech-3-c-and-net
+        directory: layouts
+        filename: fidgetech-3-c-and-net.yaml
+      - repo: fidgetech-4-react
+        directory: layouts
+        filename: fidgetech-4-react.yaml
