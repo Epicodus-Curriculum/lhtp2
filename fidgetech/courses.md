@@ -17,6 +17,7 @@ hide_table_of_contents: true
     <a className="track-button" target="_self" href="/fidgetech-intermediate-javascript">Intermediate JavaScript</a>
     <a className="track-button" target="_self" href="/fidgetech-react">React</a>
     <a className="track-button" target="_self" href="/fidgetech-c-and-net">C#/.NET</a>
+    <a className="track-button" target="_self" href="/fidgetech-workshop">Workshop</a>
     </div>
   </div>
 

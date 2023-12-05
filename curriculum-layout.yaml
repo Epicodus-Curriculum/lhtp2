@@ -126,15 +126,6 @@ tracks:
       - repo: fidgetech-4-react
         directory: layouts
         filename: fidgetech-4-react.yaml
-      # - repo: pre-work-full-stack
-      #   directory: layouts
-      #   filename: pre-work.yaml
-      # - repo: DEI-full-stack
-      #   directory: layouts
-      #   filename: diversity-equity-and-inclusion.yaml
-      # - repo: career-services-full-stack
-      #   directory: layouts/journaling
-      #   filename: journaling-curriculum.yaml
-      # - repo: career-services-full-stack
-      #   directory: layouts/jobs
-      #   filename: career-services.yaml
+      - repo: fidgetech-workshops
+        directory: layouts
+        filename: fidgetech-workshop.yaml
