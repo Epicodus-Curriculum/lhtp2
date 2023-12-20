@@ -114,9 +114,9 @@ tracks:
         filename: react.yaml
   - name: fidgetech
     course_layouts:
-      - repo: fidgetech-prework
+      - repo: fidgetech-pre-work
         directory: layouts
-        filename: fidgetech-prework.yaml
+        filename: fidgetech-pre-work.yaml
       - repo: fidgetech-1-introduction-to-programming
         directory: layouts
         filename: fidgetech-1-introduction-to-programming.yaml
