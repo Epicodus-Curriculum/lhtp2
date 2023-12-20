@@ -13,6 +13,7 @@ hide_table_of_contents: true
 
   <div style={{borderStyle: 'solid', borderWidth: '2px', borderColor: 'var(--ifm-color-emphasis-300)', borderRadius: '20px', marginBottom: '20px' }}>
     <div className='course-row' style={{margin: '10px'}}>
+    <a className="track-button" target="_self" href="/fidgetech-pre-work">Pre-work</a>
     <a className="track-button" target="_self" href="/fidgetech-introduction-to-programming">Introduction to Programming</a>
     <a className="track-button" target="_self" href="/fidgetech-intermediate-javascript">Intermediate JavaScript</a>
     <a className="track-button" target="_self" href="/fidgetech-react">React</a>
