@@ -34,6 +34,9 @@ tracks:
       - repo: c-sharp-full-stack
         directory: layouts/ft
         filename: c-and-net.yaml
+      - repo: capstone
+        directory: layouts/ft
+        filename: capstone.yaml
   - name: part-time
     course_layouts:
       - repo: pre-work-full-stack
