@@ -18,7 +18,6 @@ hide_table_of_contents: true
     <a className="track-button" target="_self" href="/intermediate-javascript">Intermediate JavaScript</a>
     <a className="track-button" target="_self" href="/react">React</a>
     <a className="track-button" target="_self" href="/c-and-net">C#/.NET</a>
-    <a className="track-button" target="_self" href="/capstone">Capstone</a>
     </div>
   </div>
 
